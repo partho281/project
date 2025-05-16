@@ -1,0 +1,8 @@
+header{display:flex;justify-content: space-between;align-items: center;padding: 20px 50px;box-shadow: 11px 4px 11px 0px gray;}
+
+li{list-style: none;display: inline; margin: 0 0px 0 50px;color: black;}
+.p01{font-weight: 500; color: black;}
+a{text-decoration: none;}
+td{box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;}
+td{padding: 0 30px; border-radius: 5px; margin: 0 15px;}
+footer{background-color: blue; color: white; text-align: center; padding: 100px;}
